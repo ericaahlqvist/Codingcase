@@ -1,0 +1,11 @@
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\bin\Debug\net10.0\Kodtest-Erica.deps.json
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\bin\Debug\net10.0\Kodtest-Erica.dll
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\bin\Debug\net10.0\Kodtest-Erica.pdb
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\Kodtest-Erica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\Kodtest-Erica.AssemblyInfoInputs.cache
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\Kodtest-Erica.AssemblyInfo.cs
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\Kodtest-Erica.csproj.CoreCompileInputs.cache
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\Kodtest-Erica.dll
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\refint\Kodtest-Erica.dll
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\Kodtest-Erica.pdb
+C:\Users\Erica\Documents\kodtest\Kodtest-Erica\obj\Debug\net10.0\ref\Kodtest-Erica.dll
